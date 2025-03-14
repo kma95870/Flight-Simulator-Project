@@ -141,7 +141,7 @@ Voici une capture d'écran montrant la visualisation en temps réel des position
 ![Visualisation des données de vol](images/flight_data_visualization_1.png)
 
 ### **2️⃣ Données de vol mises à jour**
-Une autre capture d'écran montrant les données de vol mises à jour affichées dans le dashboard :
+Une autre capture d'écran montrant les données de vol mises à jour affichées dans le dashboard. On peut voir que de nouveaux points apparaissent, des points ont bougés sur la carte et que les coordonées de longitude et latitude ont été modifiés sur le tableau :
 
 ![Données de vol mises à jour](images/flight_data_visualization_2.png)
 
