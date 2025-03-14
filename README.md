@@ -6,16 +6,8 @@ Ce projet est un simulateur de vol en temps réel qui génère des données de v
 ## 🖥️ Environnement
 - **OS :** Windows
 - **Langages :** Python
-- **Technologies :** Kafka, Spark Streaming, AWS S3, Streamlit
+- **Technologies :** Kafka, AWS S3, Streamlit
 
-## 📂 Structure du projet
-Flight-Simulator-Project/ 
-│── scripts/ 
-│ ├── flight_producer.py # Génère et envoie les données à Kafka & AWS S3 
-│ ├── reponse_S3.py # Vérifie les fichiers stockés sur AWS S3 
-│ ├── dashboard_streaming.py # Affichage en temps réel avec Streamlit 
-│── README.md # Documentation du projet 
-│── requirements.txt # Dépendances Python
 
 ## Architecture 🏗️
 1. **Génération des données de vol** avec `Faker` et `random`
