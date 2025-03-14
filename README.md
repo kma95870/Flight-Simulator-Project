@@ -135,6 +135,22 @@ Puis ouvre [http://localhost:8501](http://localhost:8501) dans ton navigateur.
 
 
 ---
+### **1️⃣ Visualisation des données de vol**
+Voici une capture d'écran montrant la visualisation en temps réel des positions des vols et des détails via le **dashboard Streamlit** :
+
+![Visualisation des données de vol](images/flight_data_visualization_1.png)
+
+### **2️⃣ Données de vol mises à jour**
+Une autre capture d'écran montrant les données de vol mises à jour affichées dans le dashboard :
+
+![Données de vol mises à jour](images/flight_data_visualization_2.png)
+
+### **3️⃣ Téléchargements de fichiers AWS S3**
+Enfin, voici une image du bucket AWS S3 où les fichiers de données de vol sont stockés :
+
+![Téléchargements de fichiers AWS S3](images/s3_file_uploads.png)
+
+---
 
 ## 📬 Contact
 Auteur : KRIM Mohamed-Amine  
