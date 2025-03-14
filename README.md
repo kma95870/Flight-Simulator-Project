@@ -36,11 +36,11 @@ pip install -r requirements.txt
 ```
 #### 🛠 Dépendances
 Fichier requirements.txt :
-kafka-python
-pyspark
-boto3
-pandas
-streamlit
+kafka-python,
+pyspark,
+boto3,
+pandas,
+streamlit,
 plotly
 
 ---
