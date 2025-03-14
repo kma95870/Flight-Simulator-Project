@@ -4,8 +4,8 @@ from datetime import datetime, timezone
 
 s3_client = boto3.client(
     's3',
-    aws_access_key_id='YOUR ACCESS KEY ID',
-    aws_secret_access_key='YOUR SECRET ACCESS KEY',
+    aws_access_key_id='YOUR ACCESS KEY',
+    aws_secret_access_key='YOUR SECRET KEY',
     region_name='us-west-1'  # Change selon ta région AWS
 )
 
